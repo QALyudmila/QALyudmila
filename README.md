@@ -9,34 +9,67 @@
 ### Bug-reports 
 
 ##### PC games:
-- [LittleShooter]()
+- [3DSnake](https://ru.yougile.com/board/c6alwa7g6sd7)
+- [Electric trains](https://ru.yougile.com/board/bbur7ynjsuvm)
+- [Age of mystery](https://ru.yougile.com/board/9zrgf439j4gm)
 
 
 #### Mobile games: 
-- [LittleShooter]()
+- [FarmingFever](https://ru.yougile.com/board/qdy424dia721)
+- [Cards masters](https://ru.yougile.com/board/y7o41fl5r0oi)
+- [BaseDefence](https://ru.yougile.com/board/f3ekthh7cirk)
+- [World race](https://ru.yougile.com/board/plulii38w8oj)
+- [LittleShooter](https://ru.yougile.com/board/3ysltww7gha9)
 
 
 #### Web-sites:
-- [Smart Funding]()
+- [Сайт строительной компании](https://ru.yougile.com/board/1ztg3hqi2fnq)
+- [Tallin](https://ru.yougile.com/board/rw1ouyqy9q7p)
+- [Royal house](https://ru.yougile.com/board/gxhv85swz7w2)
+- [Smartfiniding](https://ru.yougile.com/board/nx742zpbenvx)
+- [JioLife](https://ru.yougile.com/board/b2wh20b3z2to)
+- [Сайт причесок](https://ru.yougile.com/board/v9ahusmbhjfd)
+- [9Courses](https://ru.yougile.com/board/ua91z04umonh)
+
+
 
 
 ### Check-lists
 #### PC Games:
+- [AgeOfMystery](https://docs.google.com/spreadsheets/d/1nLgIjPjZq3O20ardmG_VKDmfQ1XRtdKl/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
 
 #### Mobile games:
-- [Smart Funding]()
-
+- [LittleShooter](https://docs.google.com/spreadsheets/d/1dyqPLhK57vLOhbIn7BsZUw7CSYGnycoQ/edit?usp=drive_link&ouid=113719124841547768784&rtpof=true&sd=true)
+- [BaseDefence](https://docs.google.com/spreadsheets/d/1OjNAXmqBsNlME1M3uTkSrGY4R4hGxp1Y/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+- [FarmingFever](https://docs.google.com/spreadsheets/d/1XIUEk1GYqQ0zlqhJhtmeENUOzOM9FhP2/edit?usp=drive_link&ouid=113719124841547768784&rtpof=true&sd=true)
+- [World race](https://docs.google.com/spreadsheets/d/1KTrq0ZuO27u80GJXHz-h0z7FJw-xq8iP/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+- [3DSnake](https://docs.google.com/spreadsheets/d/16y4oYE-ge39_XXYAnJCA205z56LxCd7B/edit?usp=drive_link&ouid=113719124841547768784&rtpof=true&sd=true)
 
 #### Web-sites:
+- [Jakhan Pirhulyieva](https://docs.google.com/spreadsheets/d/17zfKqdB5EP5X_G5w2YciyPY7xFYIlIjv/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+- [EcDevStudio](https://docs.google.com/spreadsheets/d/1dbR8_CZD9sYn8TCdJKMa_fYpYFW9I041/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+- [Makes Scents](https://docs.google.com/spreadsheets/d/1WIltIH13oswULRAemD4ndhV34v-HS2kj/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+- [9Courses](https://docs.google.com/spreadsheets/d/11nTWDvCqjeR63rI42u3hO8SB8ch7lga3/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+- [Smartfinding](https://docs.google.com/spreadsheets/d/154geCfrZm5gjXvVQpr6oX-NzwKCtXQkY/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+- [HouseForever](https://docs.google.com/spreadsheets/d/1EVojPYwIuulGJdUuZQRIEbHrjHdUFuhV/edit?usp=sharing&ouid=116810863084309971322&rtpof=true&sd=true)
 
 ### Test cases 
 
 #### Web-sites:
 - [Smart Funding](https://docs.google.com/spreadsheets/d/1QPr2dmSvDjBtUE0aYYHKvXWjHG5cvYOP/edit?usp=sharing&ouid=117348210532218359757&rtpof=true&sd=true)
 - [9Courses](https://docs.google.com/spreadsheets/d/1-yZf_lv2Cd73TeMG9TbCjwemznlShoM9/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+- [EcDev Studio](https://docs.google.com/spreadsheets/d/1c_XAN5G9JkFmvYy_090UFSmRXpEvnaUY/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+- [Jakhan Pirhulyieva](https://docs.google.com/spreadsheets/d/1tOwa_WIA5TnfvOHTjLjXf4WB1hmAk_Ol/edit?usp=sharing&ouid=117348210532218359757&rtpof=true&sd=true)
+- [Makes Scents](https://docs.google.com/spreadsheets/d/1yyDqVdpjvhjcM-GiJKNhC9bCRLt1OQl9/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
 
 #### Mobile Games
-- [Smart Funding]()
+- [Farming Fever](https://docs.google.com/spreadsheets/d/1U8qSQouvZp-t7hXL5uFAqy3CyoyspurY/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+- [Little Shooter](https://docs.google.com/spreadsheets/d/1YaKp6Uzw3PAK2ZxcOxxeArLUTRz4IlIt/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+- [Base Defence](https://docs.google.com/spreadsheets/d/1GtJROsiaPN33JaL3hjgljByKEynDvh3J/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+
+#### PC Games
+-[Age of Mystery](https://docs.google.com/spreadsheets/d/1n6Dl33_qaVRJGpVSq0lqoOqqBcdXafOc/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
+-[3DSnake](https://docs.google.com/spreadsheets/d/14y2uotxN3ONDszAWo21RjGrmq0lNEKf1/edit?usp=sharing&ouid=113719124841547768784&rtpof=true&sd=true)
 
 ## Languages and Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)
